@@ -6,6 +6,8 @@
 </p>
 
 <p align="center">
+  <a href="https://www.linkedin.com/in/bharath-guna/"><img src="https://img.shields.io/badge/LinkedIn-bharath--guna-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://leetcode.com/u/bharath_2394/"><img src="https://img.shields.io/badge/LeetCode-bharath__2394-FFA116?style=flat-square&logo=leetcode&logoColor=black" alt="LeetCode"></a>
   <a href="mailto:bharathking2394@gmail.com"><img src="https://img.shields.io/badge/Email-bharathking2394%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
   <img src="https://img.shields.io/badge/Location-Tamil%20Nadu%2C%20India-4c1?style=flat-square" alt="Location">
   <img src="https://img.shields.io/badge/Open%20to-opportunities-0A66C2?style=flat-square" alt="Open to opportunities">
