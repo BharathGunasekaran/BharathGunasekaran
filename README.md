@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Bharath 👋</h1>
 
 <p align="center">
-  <b>AI Engineer · Python Developer</b><br>
+  <b>AI Engineer · ML Engineer</b><br>
   I build AI agents, real-time voice assistants and machine learning applications.
 </p>
 
@@ -17,11 +17,12 @@
 
 ## 🧑‍💻 About me
 
+- 👨🏻‍💻 Junior AI Engineer
 - 🎓 B.Tech in **Artificial Intelligence and Machine Learning**
 - 🤖 I build **LLM agents** with tool calling, MCP and human-in-the-loop approval
 - 🎙️ I build **real-time voice AI** with LiveKit: speech-to-text, LLMs and text-to-speech
 - 🧠 I work on **machine learning and deep learning** projects: computer vision, healthcare prediction and reinforcement learning
-- ⚙️ I build the **backends** behind them: Django, FastAPI, SQLAlchemy and AWS serverless
+- ⚙️ I build the **backends** behind them: FastAPI, SQLAlchemy and AWS serverless
 - 🌱 Currently exploring **reinforcement learning** and **sim-to-real** robotics
 
 ## 🛠️ Tech stack
